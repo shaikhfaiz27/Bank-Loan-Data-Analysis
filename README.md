@@ -1,5 +1,5 @@
 # Project Overview
-This project focuses on analyzing large-scale bank loan application data to understand approval trends, customer risk profiles, and lending patterns. Using Microsoft Excel, the dataset was transformed into meaningful insights through data cleaning, pivot tables, KPIs, and an interactive dashboard.This project focuses on analyzing large-scale bank loan application data to understand approval trends, customer risk profiles, and lending patterns. Using Microsoft Excel, the dataset was transformed into meaningful insights through data cleaning, pivot tables, KPIs, and an interactive dashboard.
+This project focuses on analyzing large-scale bank loan application data to understand approval trends, customer risk profiles, and lending patterns. Using Microsoft Excel, the dataset was transformed into meaningful insights through data cleaning, pivot tables, KPIs, and an interactive dashboard.
 
 # Tools Used
 - Microsoft Excel
